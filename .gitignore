@@ -1,0 +1,6 @@
+.attachignore
+.qualified-attach.json
+node_modules/
+npm-deub.log
+.DS_Store
+/*.env
