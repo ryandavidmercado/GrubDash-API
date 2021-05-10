@@ -5,4 +5,4 @@ An Express-based API for a theoretical food delivery service.
 [Example Frontend](https://grub-dash-demo-chmsobsfa-ryandavidmercado.vercel.app/)
 
 ## Routes
-Documentation in construction
+Documentation under construction
